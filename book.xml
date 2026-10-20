@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+  <book id="b1">
+    <title>Clean Code</title>
+    <author>Robert C. Martin</author>
+    <price>42.99</price>
+  </book>
+  <book id="b2">
+    <title>JavaScript: The Good Parts</title>
+    <author>Douglas Crockford</author>
+    <price>29.95</price>
+  </book>
+  <book id="b3">
+    <title>The Pragmatic Programmer</title>
+    <author>Andrew Hunt &amp; David Thomas</author>
+    <price>39.99</price>
+  </book>
+  <book id="b4">
+    <title>You Don't Know JS: Scope &amp; Closures</title>
+    <author>Kyle Simpson</author>
+    <price>24.50</price>
+  </book>
+</catalogue>
